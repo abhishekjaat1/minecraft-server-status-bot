@@ -39,7 +39,7 @@
         "title": "🎮 Minecraft Server Status",
         "footer": {
             "text": "Made by @abhishek_da_goat",
-            "iconURL": ""
+            "iconURL": "https://cdn.discordapp.com/avatars/1293533498568867884/4c8bec53c729f2b80e5dd6b8142c5a84.png?size=1024"
         }
     },
     "credits": {
@@ -50,4 +50,5 @@
     }
 
 }
+
 
