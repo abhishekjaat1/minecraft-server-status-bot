@@ -12,8 +12,8 @@
     "minecraft": {
         "servers": [{
             "name": "Dark MC",
-            "ip": "hypixel.net",
-            "port": 25565,
+            "ip": "in.horizonnodes.net",
+            "port": 25577,
             "channelId": "1407317231544696939",
             "updateInterval": 30000,
             "display": {
@@ -50,3 +50,4 @@
     }
 
 }
+
