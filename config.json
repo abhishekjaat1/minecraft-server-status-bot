@@ -1,6 +1,6 @@
 {
     "bot": {
-        "token": "bottoken",
+        "token": "MTQwOTQ1MzgyNjE2Mjk1NDMwMw.GDT-ci.k17r3VTxE-5gFB6GC_Oqa7JDHztHZgctbDHEdg",
         "presence": {
             "status": "online",
             "activities": [{
@@ -50,5 +50,6 @@
     }
 
 }
+
 
 
